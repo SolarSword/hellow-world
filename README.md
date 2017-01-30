@@ -1,2 +1,6 @@
 # hellow-world
-Just another repository
+
+Hi humans!
+
+SolarSword here!
+I like sweet potatoes.
